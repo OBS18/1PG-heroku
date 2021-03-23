@@ -15,6 +15,10 @@ MONGO_URI="mongodb://localhost/1PG"
 PORT=3000
 ```
 
+## Heroku deployment
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasramp/Eris)
+
 ## Set Redirect URIs
 + http://localhost:3000/auth
 + http://localhost:3000/auth-guild
