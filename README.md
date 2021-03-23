@@ -17,7 +17,7 @@ PORT=3000
 
 ## Heroku deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasramp/Eris)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theADAMJR/1PG/tree/heroku)
 
 ## Set Redirect URIs
 + http://localhost:3000/auth
